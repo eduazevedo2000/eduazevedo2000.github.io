@@ -1,0 +1,9 @@
+ul {
+  display: inline;
+}
+
+#left {
+  height: 100%;
+  width: 50%;
+  background-color: rgb(196, 189, 189);
+}
